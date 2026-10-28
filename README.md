@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/portfolio-banner.svg" alt="Banner de apresentação do projeto QueueLess" width="100%"/>
+</p>
+
 # QueueLess
 
 QueueLess é um sistema de gestão de filas em tempo real desenvolvido para pequenos negócios que precisam organizar o fluxo de clientes de forma simples, segura e profissional.
